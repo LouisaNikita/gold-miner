@@ -12,7 +12,7 @@
 
 Deciding on a JavaScript framework for your web application can be overwhelming. [Angular](https://angular.io/) and [React](https://facebook.github.io/react/) are very popular these days, and there is an upstart which has been getting a lot of traction lately: [VueJS](https://vuejs.org/). What’s more, these are just a few of the new [kids on the block](https://hackernoon.com/top-7-javascript-frameworks-c8db6b85f1d0).
 
-web 应用采用 JavaScript 框架是必然趋势。目前 [Angular](https://angular.io/) 和 [React](https://facebook.github.io/react/) 很流行，最近还有一匹黑马 [VueJS](https://vuejs.org/) 突出重围。还有一些其他的，参阅 [kids on the block](https://hackernoon.com/top-7-javascript-frameworks-c8db6b85f1d0) 。
+web 应用采用 JavaScript 框架是必然趋势。目前 [Angular](https://angular.io/) 和 [React](https://facebook.github.io/react/) 很流行，最近还有一匹黑马 [VueJS](https://vuejs.org/) 突出重围。还有一些其他的新兴框架，参阅 [kids on the block](https://hackernoon.com/top-7-javascript-frameworks-c8db6b85f1d0) 。
 
 ![Javascripts in 2017 — things aren’t easy these days!](https://cdn-images-1.medium.com/max/800/1*xRhs4h2a_rGpXNpoSNlA9w.png)
 
