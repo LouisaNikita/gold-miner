@@ -7,14 +7,17 @@
 > * 校对者：
 
 # Angular vs. React vs. Vue: A 2017 comparison
+
 # 2017对比：Angular vs. React vs. Vue
 
 Deciding on a JavaScript framework for your web application can be overwhelming. [Angular](https://angular.io/) and [React](https://facebook.github.io/react/) are very popular these days, and there is an upstart which has been getting a lot of traction lately: [VueJS](https://vuejs.org/). What’s more, these are just a few of the new [kids on the block](https://hackernoon.com/top-7-javascript-frameworks-c8db6b85f1d0).
+
 web 应用采用 JavaScript 框架是必然趋势。目前 [Angular](https://angular.io/) 和 [React](https://facebook.github.io/react/) 很流行，最近还有一匹黑马 [VueJS](https://vuejs.org/) 突出重围。还有一些其他的，参阅 [kids on the block](https://hackernoon.com/top-7-javascript-frameworks-c8db6b85f1d0) 。
 
 ![Javascripts in 2017 — things aren’t easy these days!](https://cdn-images-1.medium.com/max/800/1*xRhs4h2a_rGpXNpoSNlA9w.png)
 
 So, how are we supposed to decide? A pros-and-cons list never hurts. We’ll do this in the style of my previous article, “[9 Steps: Choosing a tech stack for your web application](https://medium.com/unicorn-supplies/9-steps-how-to-choose-a-technology-stack-for-your-web-application-a6e302398e55)”.
+
 点兵点将，我们该选哪个呢？
 
 ## Before we start — SPA or not?
